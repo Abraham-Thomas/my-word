@@ -10,6 +10,8 @@
 
 2已停止更新，2020年退出历史舞台
 
+电脑上可以安装多个版本的python。
+
 
 
 ### 设计目标
@@ -51,6 +53,14 @@ python解释器将硬盘上的python代码在内存中解释后放到cpu中跑�
 集成开发环境（Integrated Development Environment）
 
 PyCharm，JetBrains开发的著名IDE
+
+
+
+### 思考？
+
+从控制台为什么能打开python？
+
+提示：系统环境变量。
 
 
 
